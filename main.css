@@ -1,0 +1,15 @@
+body.login {
+    box-sizing: border-box;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    margin: 0;
+}
+form {
+    border: 1px solid;
+    padding: 1rem;
+}
+
+form  label {
+    display: block;
+}
